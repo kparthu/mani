@@ -10,13 +10,13 @@ switch ($work) {
 	case 'coreldraw':
 		$filepath = '../wp-content/images/corel/acc (';
 		$projecttype = 'Corel Draw';
-		$numofimg = 5;
+		$numofimg = 4;
 		$width = 4;
 		break;
 	case 'ai2d':
 		$filepath = '../wp-content/images/ai2d/ai (';
 		$projecttype = 'Adobe Illustrator';
-		$numofimg = 8;
+		$numofimg = 11;
 		$width = 4;
 		break;
 	case 'photography':
@@ -28,7 +28,7 @@ switch ($work) {
 	case 'photoshop':
 		$filepath = '../wp-content/images/photoshop/ps (';
 		$projecttype = 'Adobe Photoshop';
-		$numofimg = 6;
+		$numofimg = 12;
 		$width = 4;
 		break;
 	case 'optitex':
